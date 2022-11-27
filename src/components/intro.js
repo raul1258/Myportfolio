@@ -22,6 +22,7 @@ function intro() {
           <div className="Card" style={{display:"flex",flexDirection:"column",marginTop:30,border:"2px solid lightgrey",borderRadius:10}}> 
                        
                         <div style={{display:"flex", alignItems: 'center',padding:20}}>
+            
                             <img src={pic2} className="dp"/>
                             <div className="idText" style={{padding:20 , fontSize:"80%"}}>
                                 <h1>Rahul Jaiswal</h1>
