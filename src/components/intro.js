@@ -26,7 +26,7 @@ function intro() {
                             <img src={pic2} className="dp"/>
                             <div className="idText" style={{padding:20 , fontSize:"80%"}}>
                                 <h1>Rahul Jaiswal</h1>
-                                <h3 style={{fontFamily:"EBGaramondRegular",opacity:0.3,marginTop:-10}}>FrontEnd Developer</h3>
+                                <h3 style={{fontFamily:"EBGaramondRegular",opacity:0.3,marginTop:-10}}> Junior FrontEnd Developer </h3>
                             </div>
                         </div>
                     </div>
