@@ -1,6 +1,7 @@
 import AboutMe from "./components/AboutMe";
 import Header from "./components/header";
 import Intro from "./components/intro";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -9,8 +10,9 @@ function App() {
       <div className="container">
         <Intro/>
         <AboutMe/>
+        
       </div>
-      
+      {/* <Projects/> */}
     </div>
   );
 }

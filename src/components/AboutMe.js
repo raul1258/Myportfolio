@@ -17,7 +17,6 @@ function AboutMe() {
         
          
         
-        <br/> 
         <div className="Card" style={{display:"flex",flexDirection:"column",marginTop:30,border:"2px solid lightgrey",borderRadius:10}}> 
                        
                        <div style={{display:"flex", alignItems: 'center',padding:20}}>
