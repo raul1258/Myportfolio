@@ -6,7 +6,8 @@
 
 body {
   margin: 0;
-  background-color: rgb(255, 255, 255);
+  background-color: #c0ccdf;
+  /* color: #fff; */
   font-family: "Inter", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

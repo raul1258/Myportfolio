@@ -9,7 +9,6 @@ function intro() {
     <div className='intro'>
         <div className='intro-wrapper' style={{padding:20 , width:"50%"}}>
           <div style={{fontSize:"150%"}}>
-            <h2>Hi, I'm Rahul Jaiswal</h2>
             <h1 className="headingIntro"><span></span><strong style={{color:"var(--blue)"}}> .</strong></h1>
             </div>
             <div className="hiddenText">
