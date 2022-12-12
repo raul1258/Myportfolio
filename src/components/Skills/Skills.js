@@ -29,6 +29,13 @@ function Skills() {
                         <div className='skills_data'>
                         
                             <div>
+                                <h3 className='skills_name'>CSS</h3>
+                                <span className='skills_level'>Advanced</span>
+                            </div>
+                        </div>
+                        <div className='skills_data'>
+                        
+                            <div>
                                 <h3 className='skills_name'>JavaScript</h3>
                                 <span className='skills_level'>Basic</span>
                             </div>
