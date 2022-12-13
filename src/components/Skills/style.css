@@ -1,6 +1,9 @@
-.section_title{
+.section_title, .section_subtitle{
 display: flex;
 justify-content: center;
+}
+span{
+    color:rgb(105, 104, 102) ;
 }
 .skills_container{
     grid-template-columns: repeat(2,350px);
