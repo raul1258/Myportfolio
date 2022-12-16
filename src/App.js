@@ -13,7 +13,7 @@ function App() {
         <Intro/>
         <AboutMe/>
         <Skills />
-        <Qualification/>
+        <Qualification />
         <Projects/>
       </div>
       
