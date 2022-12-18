@@ -52,7 +52,7 @@ function Qualification() {
                       M.Com
                     </span>
                     <div className='qualification_calendar'>
-                      2021
+                      2019-2021
                     </div>
                   </div>
                   
@@ -66,6 +66,7 @@ function Qualification() {
                     </span>
                     <div className='qualification_calendar'>
                       2016-2019
+                      rahul jaiswal
                     </div>
                   </div>
                   <div>
